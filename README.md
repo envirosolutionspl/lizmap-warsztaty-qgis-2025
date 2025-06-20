@@ -4,7 +4,7 @@ Materiały na warsztaty LizMap Web Client: Tworzenie i publikowanie projektów Q
 ![img.png](img.png)
 
 ### Instrukcja konfiguracji środowiska pracy na warsztaty LizMap – Windows
-[Pobierz instrukcję PDF](instrukcja przygotowania oprogramowania na warsztaty LizMap.pdf)
+[Pobierz instrukcję PDF]("instrukcja przygotowania oprogramowania na warsztaty LizMap.pdf")
 
 ### obraz maszyny wirtualnej z LizMapą
 [Pobierz obraz maszyny wirtualnej](https://downloads.envirosolutions.pl/ubuntu.zip)

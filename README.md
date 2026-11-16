@@ -1,3 +1,5 @@
+> **Repozytorium zostało przeniesione.** Aktualne materiały tych warsztatów znajdziesz w [envirosolutionspl/warsztaty-gis](https://github.com/envirosolutionspl/warsztaty-gis/tree/main/warsztaty/2025_spotkanie-uzytkownikow-qgis_lizmap). To repozytorium jest archiwalne.
+
 # Warsztaty LizMap Web Client: Tworzenie i publikowanie projektów QGIS w sieci
 Materiały na warsztaty LizMap Web Client: Tworzenie i publikowanie projektów QGIS w sieci  w ramach IV Spotkania Użytkowników QGIS 2025 w Łodzi.
 
